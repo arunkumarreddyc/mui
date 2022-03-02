@@ -1,0 +1,20 @@
+.styled {
+  color: black;
+  background-color: red;
+  border: 10px solid blue;
+}
+
+.style {
+  color: red;
+  background-color: yellow;
+  border: 10px solid yellow;
+}
+
+
+.black{
+    background-color:gray;
+}
+
+.white{
+    background-color:cornflowerblue;
+}
